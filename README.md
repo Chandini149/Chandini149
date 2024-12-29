@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about advanced machine learning algorithms, deep learning, and improving my skills in data preprocessing and analysis.
 
-💞️ I’m looking to collaborate on data science projects, particularly in the fields of healthcare, business analytics, and predictive modeling. I'm eager to work on projects that can drive real-world impact.
+💞️ I’m eager to work looking to collaborate on data science projects that can drive real-world impact.
 
 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/chandini-karrothu-1469b1206) or email me at chandinikarrothu149@gmail.com 
 
